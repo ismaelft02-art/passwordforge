@@ -1,5 +1,0 @@
-User-agent: *
-
-Allow: /
-
-Sitemap: https://TU-USUARIO.github.io/passwordforge/sitemap.xml
