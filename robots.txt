@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://ismaelft02-art.github.io/passwordforge/sitemap.xml
